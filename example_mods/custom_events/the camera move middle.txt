@@ -1,0 +1,4 @@
+the camera move
+
+Value 1: if you set it to 1 it work set to 0 and it no work :(
+

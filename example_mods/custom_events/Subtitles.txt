@@ -1,0 +1,5 @@
+Displays Subtitles 
+Example: Value 1: Hi there, Value 2: FFFFFF (completely white)
+
+Value 1: Text
+Value 2: Color (HEX Code only)

@@ -1,0 +1,8 @@
+Value 1 = Character
+
+1 = Turn On For Opponent
+1off = Turn Off For Opponent
+2 = Turn On For BF
+2off = Turn Off For BF
+3 = Turn On For Both
+3off = Turn Off For Both

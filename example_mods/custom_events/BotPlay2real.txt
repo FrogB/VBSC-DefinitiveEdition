@@ -1,0 +1,7 @@
+BOT PLAY
+
+
+Toggles Bot PLAY
+
+Value 1: on (anything besides on == off)
+Value 2: nothing.

@@ -1,0 +1,4 @@
+Fades screen loool
+
+Value 1: Alpha value (0 being invisible, 1 being visible)
+Value 2: Duration of transition

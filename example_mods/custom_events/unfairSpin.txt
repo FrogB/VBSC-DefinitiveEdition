@@ -1,0 +1,4 @@
+The Unfairness Mechanic
+
+Note: This DOES NOT disable Ghost Tapping, you'll need
+to use a function onCreate() in a .lua script to add this

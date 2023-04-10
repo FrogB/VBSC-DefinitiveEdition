@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MetaverseDude idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MetaverseDude left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MetaverseDude down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MetaverseDude up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MetaverseDude right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MetaverseDude",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Meta",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-260,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
